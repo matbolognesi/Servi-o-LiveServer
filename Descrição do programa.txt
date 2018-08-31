@@ -1,0 +1,3 @@
+Nesse programa será ensinado a realizar facilmente um ambiente front-end usando o live server como servidor, o node js e outras tecologias q serão melhor descritas futuramente.
+Foi criado um template rapidamente do bootstrap escrevendo apenas b4 na primeira linha da página index
+
